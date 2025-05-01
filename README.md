@@ -18,8 +18,8 @@ An asterisk after the name denotes a 01Founders project.
 
 ## Go
 
+- [penumbra](https://github.com/pjtunstall/penumbra) A task manager web app, written mostly in Go, using Go's HTML templates, with minimal JavaScript, and the DaisyUI CSS framework for styling.
 - [lem-in](https://github.com/pjtunstall/lem-in)* One of my early 01Founders projects. We had to find an optimal way to send ants through a maze. It taught me some graph traversal algorithms and the concept of maximum flow. I kept thinking I had it, then realizing it went deeper. The breakthrough came when I found a paper by Schroeder, Guedes, and Duarte on how to adapt the Ford-Fulkerson technique to find a maximum flow in an undirected graph.
 - [push-swap](https://github.com/pjtunstall/push-swap)* For us, at 01Founders, this was an optional project. It was my entertainment over the second winter break. I got carried away comparing the performance of all the solutions I could find online from students at our sibling schools.
 - [stock-exchange-sim](https://github.com/pjtunstall/stock-exchange-sim)* A playfully named, optional 01Founders project about task scheduling heuristics, introducing the idea of a process chain.
 - [brainfuck](https://github.com/pjtunstall/brainfuck) An interpreter for the esoteric programming language Brainfuck.
-- [penumbra](https://github.com/pjtunstall/penumbra) A task manager web app, written mostly in Go, using Go's HTML templates, with minimal JavaScript, and the DaisyUI CSS framework for styling.
