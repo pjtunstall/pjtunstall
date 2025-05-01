@@ -1,4 +1,4 @@
-An asterisk after the name denotes a 01Founders project.
+An asterisk after the name denotes a 01Founders project. (Or explore my pinned repositories below for a quick sample.)
 
 ## Rust
 
