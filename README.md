@@ -1,6 +1,6 @@
 An asterisk after the name denotes a 01Founders project.
 
-(See pinned repos below for a quick sample.)
+(If you're viewing this on my GitHub [profile](https://github.com/pjtunstall), scroll down to pinned repos for a quick sample.)
 
 ## Rust
 
