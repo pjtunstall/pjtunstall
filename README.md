@@ -1,4 +1,4 @@
-An asterisk after the name denotes a 01Founders project.
+I've been learning to code for the past two and a half years, studying Go, JavaScript, and Rust at 01Founders, a branch of the 01Edu family of coding bootcamps. This portfolio is a mixture of coursework and personal projects. An asterisk after the name denotes a 01Founders project.
 
 (If you're viewing this on my GitHub [profile](https://github.com/pjtunstall), scroll down to pinned repos for a quick sample.)
 
@@ -15,7 +15,7 @@ An asterisk after the name denotes a 01Founders project.
 - [retro-raiders](https://github.com/pjtunstall/retro-raiders)* First JavaScript project for 01Founders: to make a classic arcade game using JS and no framework, canvas, or WebGL. This was a group project. I made the game and story, teammate Bilal refactored my chaos into something more sensible and object oriented, which I ignored because I wanted to press on with my version, which I understood and knew where everything was--you know how it goes--and because one has to write one's own rubbish and make one's own mistakes to outgrow them. Bilal also whipped up the neat animation that happens when the aliens reach the ground. Thanks also to Daisy for the pixel art and Shane for the original scoreboard.
 - [react-tarot](https://github.com/pjtunstall/react-tarot) Personal project to introduce myself to React: a carousel of AI-generated tarot cards.
 - [ziggurats](https://github.com/pjtunstall/ziggurats) An exercise to help me learn about Canvas animations and MVC architecture, which also turned into an exploration of performance.
-- [spotify-scraper](https://github.com/pjtunstall/spotify-scraper) A program to scrape Spotify premium individual plan price data for all countries. Effective at least as far as early 2025. I'm not actively maintaining it and checking for changes to the Spotify website.
+- [spotify-scraper](https://github.com/pjtunstall/spotify-scraper) A program to scrape Spotify premium individual plan price data for all countries. Effective at least as far as early 2025. I'm not actively maintaining it or checking for changes to the Spotify website.
 - [mad](https://github.com/pjtunstall/mad) The Mad Bomber's Tea Party. A somewhat glitchy and not altogether responsive Bomberman clone with a Node backend and browser-based clients. But I still like the story and AI art. This was an 01Founders project to make a multi-player browser game using web sockets, and no WebGL or any framework except one we made in an earlier project. Based on a single-player version by fellow students; see in-game credits.
 
 ## Go
