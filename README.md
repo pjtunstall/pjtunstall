@@ -1,4 +1,4 @@
-I've been learning to code for the past two and a half years, studying Go, JavaScript, and Rust at 01Founders, a branch of the 01Edu family of coding bootcamps. This portfolio is a mixture of coursework and personal projects. An asterisk after the title denotes a 01Founders project.
+I've been learning to code for the past two and a half years at 01Founders, a branch of the 01Edu family of coding bootcamps. I began with Go, then moved onto JavaScript, and most recently Rust. This portfolio is a mixture of coursework and personal projects. An asterisk after the title denotes a 01Founders project.
 
 (If you're viewing this on my GitHub [profile](https://github.com/pjtunstall), scroll down to pinned repos for a quick sample.)
 
