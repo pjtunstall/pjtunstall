@@ -6,7 +6,7 @@ I've been learning to code for the past two and a half years at 01Founders, a br
 
 - [almondala](https://github.com/pjtunstall/almondala) Online Mandelbrot explorer, in Rust/Wasm and TypeScript.
 - [0-shell](https://github.com/pjtunstall/0-shell)* A simple shell.
-- [a-ray-tracer-darkly](https://github.com/pjtunstall/a-ray-tracer-darkly)* A ray tracer, based mainly on the first volume of [Ray Tracing in One Weekend](https://raytracing.github.io/). My resonse to the 01Founders project called rt.
+- [a-ray-tracer-darkly](https://github.com/pjtunstall/a-ray-tracer-darkly)* A ray tracer. My resonse to the 01Founders project called rt.
 - [holocron](https://github.com/pjtunstall/holocron) A program to encrypt and decrypt messages with a hybrid cryptosystem, combining a conventional key-exchange mechanism with one of the proposed post-quantum algorithms.
 - [filler](https://github.com/pjtunstall/filler)* A bot to compete against another bot at a game called filler. The bots take turns to receive a random Tetris-like piece and must place it on the playing area with certain constraints, trying to cut each other off and fill more of the space with their own tiles. The project is meant to run inside the Docker container created from the supplied Docker image.
 - [smart-road](https://github.com/pjtunstall/smart-road)* A rudimentary simulation of traffic at an intersection. (First 01Founders Rust project.)
