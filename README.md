@@ -1,7 +1,5 @@
 I've been learning to code for the past two and a half years at 01Founders, a branch of the 01Edu family of coding bootcamps. We were introduced first to Go, then JavaScript, then Rust. This portfolio is a mixture of coursework and personal projects. An asterisk after the title denotes a 01Founders project.
 
-(If you're viewing this on my GitHub [profile](https://github.com/pjtunstall), scroll down to the pinned repos for a quick sample.)
-
 ## Rust
 
 - [almondala](https://github.com/pjtunstall/almondala) Online Mandelbrot explorer, in Rust/Wasm and TypeScript.
