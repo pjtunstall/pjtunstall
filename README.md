@@ -14,7 +14,7 @@ I've been learning to code for the past two and a half years at 01Founders, a br
 - [overreact](https://github.com/pjtunstall/overreact)* A mini frontend framework with virtual DOM, state management, event delegation, and routing.
 - [react-tarot](https://github.com/pjtunstall/react-tarot) Personal project to introduce myself to React: a carousel of AI-generated tarot cards.
 - [ziggurats](https://github.com/pjtunstall/ziggurats) An exercise to help me learn about Canvas animations and MVC architecture, which also turned into an exploration of performance.
-- [spotify-scraper](https://github.com/pjtunstall/spotify-scraper) A program to scrape Spotify premium individual plan price data for all countries. Effective at least as far as early 2025. I'm not actively maintaining it or checking that it still works in case Spotify make changes to their website.
+- [spotify-scraper](https://github.com/pjtunstall/spotify-scraper) A program to scrape Spotify premium individual plan price data for all countries.
 - [mad](https://github.com/pjtunstall/mad)* The Mad Bomber's Tea Party. We had to recreate the '80s class Bomberman as a multiplayer browser game. The basis of this code is a single-player version by fellow students; see credits in game and in the README. Their work is most evident in the client-side code of the game itself.
 - [retro-raiders](https://github.com/pjtunstall/retro-raiders)* First JavaScript project for 01Founders. The brief: to remake a classic arcade game for the browser.
 
