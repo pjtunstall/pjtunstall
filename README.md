@@ -11,6 +11,7 @@ I've been learning to code for the past two and a half years at 01Founders, a br
 
 ## JavaScript
 
+- [thanatarchia](https://thanatarchia.netlify.app) An online strategy game. (TypeScript and React.)
 - [overreact](https://github.com/pjtunstall/overreact)* A mini frontend framework with virtual DOM, state management, event delegation, and routing.
 - [react-tarot](https://github.com/pjtunstall/react-tarot) Personal project to introduce myself to React: a carousel of AI-generated tarot cards.
 - [ziggurats](https://github.com/pjtunstall/ziggurats) An exercise to help me learn about Canvas animations and MVC architecture, which also turned into an exploration of performance.
