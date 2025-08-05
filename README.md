@@ -2,7 +2,7 @@ I've been learning to code for the past two and a half years at 01Founders, a br
 
 ## Rust
 
-- [almondala](https://github.com/pjtunstall/almondala) Online Mandelbrot explorer, in Rust/Wasm and TypeScript.
+- [almondala](https://github.com/pjtunstall/almondala) Online Mandelbrot explorer. (Wasm, TypeScript.)
 - [0-shell](https://github.com/pjtunstall/0-shell)* A simple shell.
 - [a-ray-tracer-darkly](https://github.com/pjtunstall/a-ray-tracer-darkly)* My resonse to the 01Founders project called rt.
 - [holocron](https://github.com/pjtunstall/holocron) A program to encrypt and decrypt messages with a hybrid cryptosystem, combining a conventional key-exchange mechanism with one of the proposed post-quantum algorithms.
@@ -11,8 +11,8 @@ I've been learning to code for the past two and a half years at 01Founders, a br
 
 ## JavaScript
 
-- [thanatarchia](https://thanatarchia.netlify.app) An online strategy game. (TypeScript and React.)
-- [overreact](https://github.com/pjtunstall/overreact)* A mini frontend framework with virtual DOM, state management, event delegation, and routing.
+- [thanatarchia](https://thanatarchia.netlify.app) An online strategy game. (TypeScript, React.)
+- [overreact](https://github.com/pjtunstall/overreact)* A simple frontend framework with virtual DOM, state management, event delegation, and routing.
 - [react-tarot](https://github.com/pjtunstall/react-tarot) A carousel of AI-generated tarot cards. (React.)
 - [ziggurats](https://github.com/pjtunstall/ziggurats) An exercise to help me learn about Canvas animations and MVC architecture, which also turned into an exploration of performance.
 - [spotify-scraper](https://github.com/pjtunstall/spotify-scraper) A program to scrape Spotify premium individual plan price data for all countries.
