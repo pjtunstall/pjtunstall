@@ -2,7 +2,7 @@ I've been learning to code for the past two and a half years at 01Founders, a br
 
 ## Rust
 
-- [almondala](https://github.com/pjtunstall/almondala) Online Mandelbrot explorer. (Wasm, TypeScript.)
+- [almondala](https://github.com/pjtunstall/almondala) An online Mandelbrot explorer. (Wasm, TypeScript.)
 - [0-shell](https://github.com/pjtunstall/0-shell)* A simple shell.
 - [a-ray-tracer-darkly](https://github.com/pjtunstall/a-ray-tracer-darkly)* My resonse to the 01Founders project called rt.
 - [holocron](https://github.com/pjtunstall/holocron) A program to encrypt and decrypt messages with a hybrid cryptosystem, combining a conventional key-exchange mechanism with one of the proposed post-quantum algorithms.
