@@ -22,7 +22,7 @@ I've been learning to code for the past two and a half years at 01Founders, a br
 ## Go
 
 - [penumbra](https://github.com/pjtunstall/penumbra) A task manager web app, written mostly in Go, using Go's HTML templates, with minimal JavaScript, and the DaisyUI CSS framework for styling.
-- [social-network](https://github.com/pjtunstall/social-network)* Group project to make a Facebook-style social media site using WebSockets, React, and SQLite. I was responsible for serverside aspect of the WebSockets. My code is naively structured and doesn't take full advantage of the duplex connection, having only one goroutine (thread) per connection, rather than a goroutine each to handle incoming and outgoing messages.
+- [social-network](https://github.com/pjtunstall/social-network)* Group project to make a Facebook-style social media site using WebSockets, React, and SQLite. I was responsible for the serverside WebSocket code. Looking back on it now, I note that contribution is naively structured. it also fails to take full advantage of the duplex connection, having only one goroutine (thread) per connection, rather than a goroutine each to handle incoming and outgoing messages.
 - [lem-in](https://github.com/pjtunstall/lem-in)* First significant 01Founders project. I enjoyed this one a lot. We had to find an optimal way to send ants through a maze. It taught me some graph traversal algorithms and the concept of maximum flow.
 - [push-swap](https://github.com/pjtunstall/push-swap)* 01Founders optional extra: sort a list of numbers using two circular stacks with as few instructions as you can.
 - [stock-exchange-sim](https://github.com/pjtunstall/stock-exchange-sim)* A playfully named 01Founders optional about task scheduling heuristics.
