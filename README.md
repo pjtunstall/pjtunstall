@@ -11,7 +11,7 @@ I've been learning to code for the past two and a half years at 01Founders, a br
 
 ## JavaScript
 
-- [thanatarchia](https://github.com/pjtunstall/thanatarchia) An online strategy game. (TypeScript, React.)
+- [thanatarchia](https://github.com/pjtunstall/thanatarchia) An online, turn-based, historical strategy game. (TypeScript, React.)
 - [river-run](https://github.com/pjtunstall/river-run) A whimsical frontend portfolio.
 - [overreact](https://github.com/pjtunstall/overreact)* A simple frontend framework with virtual DOM, state management, event delegation, and routing.
 - [react-tarot](https://github.com/pjtunstall/react-tarot) A carousel of AI-generated tarot cards. (React.)
