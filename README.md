@@ -17,7 +17,7 @@ I've been learning to code for the past three years, starting at 01Founders, a b
 - [react-tarot](https://github.com/pjtunstall/react-tarot) A carousel of AI-generated tarot cards. (React.)
 - [ziggurats](https://github.com/pjtunstall/ziggurats) An exercise to help me learn about Canvas animations and MVC architecture, which also turned into an exploration of performance.
 - [spotify-scraper](https://github.com/pjtunstall/spotify-scraper) A program to scrape Spotify premium individual plan price data for all countries.
-- [mad](https://github.com/pjtunstall/mad)* The Mad Bomber's Tea Party. We had to recreate the '80s classic Bomberman as a multiplayer browser game. Based on a single-player version by fellow students; see credits in game and in the README.
+- [the-mad-bombers-tea-party](https://github.com/pjtunstall/mad)* Multiplayer browser game based on the '80s classic Bomberman. I adapted a single-player version by fellow students, adding a Node backend; see credits in game and in the README.
 - [retro-raiders](https://github.com/pjtunstall/retro-raiders)* First JavaScript project for 01Founders: a classic arcade game for the browser.
 
 ## Go
