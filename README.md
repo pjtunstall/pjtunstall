@@ -7,13 +7,13 @@ I've been learning to code for the past three years, starting at 01Founders, a b
 - [a-ray-tracer-darkly](https://github.com/pjtunstall/a-ray-tracer-darkly)* (2025) My response to the 01Founders challenge called rt.
 - [holocron](https://github.com/pjtunstall/holocron) (2024) A program to encrypt and decrypt messages with a hybrid cryptosystem, combining a conventional key-exchange mechanism with one of the proposed post-quantum algorithms.
 - [filler](https://github.com/pjtunstall/filler)* (2025) A bot to compete against other programs at a game called filler. (Docker.)
-- [smart-road](https://github.com/pjtunstall/smart-road)* (2024) A rudimentary simulation of traffic at an intersection.
+- [smart-road](https://github.com/pjtunstall/smart-road)* (2024) A simulation of traffic at an intersection.
 
 ## JavaScript
 
 - [thanatarchia](https://github.com/pjtunstall/thanatarchia) (2025) A turn-based, historical strategy game. (TypeScript, React.)
-- [river-run](https://github.com/pjtunstall/river-run) (2025) A whimsical frontend portfolio.
-- [overreact](https://github.com/pjtunstall/overreact)* (2024) A simple frontend framework with virtual DOM, state management, event delegation, and routing.
+- [river-run](https://github.com/pjtunstall/river-run) (2025) A whimsical frontend portfolio, built with web components.
+- [overreact](https://github.com/pjtunstall/overreact)* (2024) A simple frontend framework, an exercise to understand the concepts of virtual DOM, state management, event delegation, and routing.
 - [react-tarot](https://github.com/pjtunstall/react-tarot) (2024) A carousel of AI-generated tarot cards. (React.)
 - [ziggurats](https://github.com/pjtunstall/ziggurats) (2024) An exercise to help me learn about Canvas animations and MVC architecture, which also turned into an exploration of performance.
 - [spotify-scraper](https://github.com/pjtunstall/spotify-scraper) (2024) A program to scrape Spotify premium individual plan price data for all countries.
