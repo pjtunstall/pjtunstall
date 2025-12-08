@@ -3,7 +3,7 @@ I've been learning to code for the past three years, starting at 01Founders, a b
 ## Rust
 
 - [almondala](https://github.com/pjtunstall/almondala) (2025) An online fractal explorer. (Wasm, TypeScript.)
-- [0-shell](https://github.com/pjtunstall/0-shell)* (2025) A simple shell.
+- [0-shell](https://github.com/pjtunstall/0-shell)* (2025) A BusyBox-style standalone shell that runs re-implemented Unix tools (ls, cp, rm, etc.) as internal functions rather than external binaries.
 - [a-ray-tracer-darkly](https://github.com/pjtunstall/a-ray-tracer-darkly)* (2025) My resonse to the 01Founders challenge called rt.
 - [holocron](https://github.com/pjtunstall/holocron) (2024) A program to encrypt and decrypt messages with a hybrid cryptosystem, combining a conventional key-exchange mechanism with one of the proposed post-quantum algorithms.
 - [filler](https://github.com/pjtunstall/filler)* (2025) A bot to compete against other programs at a game called filler. (Docker.)
