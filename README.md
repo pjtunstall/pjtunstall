@@ -1,4 +1,4 @@
-I've been learning to code for the past three years, starting at 01Founders, a branch of the 01Edu family of coding bootcamps. I now have three years experience of Go, two and a half of JavaScript, and one of Rust. An asterisk after the title denotes a 01Founders project.
+I've been learning to code for the past three years, starting at 01Founders, a branch of the 01Edu family of coding bootcamps. An asterisk after the title denotes a 01Founders project.
 
 ## Rust
 
@@ -13,7 +13,7 @@ I've been learning to code for the past three years, starting at 01Founders, a b
 
 - [thanatarchia](https://github.com/pjtunstall/thanatarchia) (2025) A turn-based, historical strategy game. (TypeScript, React.)
 - [river-run](https://github.com/pjtunstall/river-run) (2025) A whimsical frontend portfolio, built with web components.
-- [overreact](https://github.com/pjtunstall/overreact)* (2024) A simple frontend framework, an exercise to understand the concepts of virtual DOM, state management, event delegation, and routing.
+- [overreact](https://github.com/pjtunstall/overreact)* (2024) A simple frontend framework, an exercise to better understand concepts of virtual DOM, state management, event delegation, and routing.
 - [react-tarot](https://github.com/pjtunstall/react-tarot) (2024) A carousel of AI-generated tarot cards. (React.)
 - [ziggurats](https://github.com/pjtunstall/ziggurats) (2024) An exercise to help me learn about Canvas animations and MVC architecture, which also turned into an exploration of performance.
 - [spotify-scraper](https://github.com/pjtunstall/spotify-scraper) (2024) A program to scrape Spotify premium individual plan price data for all countries.
