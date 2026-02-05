@@ -2,6 +2,7 @@ I've been learning to code for the past three years, starting at 01Founders, a b
 
 ## Rust
 
+- [by-a-thread](https://github.com/pjtunstall/by-a-thread)* (2026) A first-person-shooter game with custom physics and netcode.
 - [almondala](https://github.com/pjtunstall/almondala) (2025) An online fractal explorer. (Wasm, TypeScript.)
 - [0-shell](https://github.com/pjtunstall/0-shell)* (2025) A mini shell that implements some core Unix tools from scratch as internal functions (in the style of BusyBox), and features job-control.
 - [a-ray-tracer-darkly](https://github.com/pjtunstall/a-ray-tracer-darkly)* (2025) A ray tracer and exercise in converting C++ to Rust.
