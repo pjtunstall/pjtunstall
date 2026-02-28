@@ -2,7 +2,7 @@ I've been learning to code for the past three years, starting at 01Founders, a b
 
 ## Rust
 
-- [by-a-thread](https://github.com/pjtunstall/by-a-thread)* (2026) A multiplayer first-person shooter with custom physics and netcode; also featuring a matchmaker API for concurrent sessions. (Docker Compose, GitHub Actions, Hetzner cloud.)
+- [by-a-thread](https://github.com/pjtunstall/by-a-thread)* (2026) A multiplayer first-person shooter with custom physics and netcode; also featuring a matchmaker REST API for concurrent sessions. (Docker Compose, GitHub Actions, Hetzner cloud.)
 - [almondala](https://github.com/pjtunstall/almondala) (2025) An online fractal explorer. (Wasm, TypeScript.)
 - [0-shell](https://github.com/pjtunstall/0-shell)* (2025) A simple shell.
 - [a-ray-tracer-darkly](https://github.com/pjtunstall/a-ray-tracer-darkly)* (2025) A ray tracer and exercise in converting C++ to Rust.
